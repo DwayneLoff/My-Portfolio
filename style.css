@@ -1,6 +1,7 @@
 .profile-img{
     border-radius: 30%;
-    width: 100%
+    display:flex;
+    justify-content:center;
 }
 
 .colntainer{
